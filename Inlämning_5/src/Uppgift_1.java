@@ -43,6 +43,7 @@ public class Uppgift_1 {
 		//System.out.println(palindrom("A Santa dog lived as a devil God at NASA"));
 		System.out.println(exponent(4,8));
 
+		//update
 		
 	}
 	
